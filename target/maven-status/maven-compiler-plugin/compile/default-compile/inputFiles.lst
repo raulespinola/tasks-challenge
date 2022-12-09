@@ -1,0 +1,16 @@
+C:\Users\LuAna\Repositorios\tasks-challenge\src\main\java\com\spacex\trelloassistant\config\SwaggerConfig.java
+C:\Users\LuAna\Repositorios\tasks-challenge\src\main\java\com\spacex\trelloassistant\models\Category.java
+C:\Users\LuAna\Repositorios\tasks-challenge\src\main\java\com\spacex\trelloassistant\rules\TaskRules.java
+C:\Users\LuAna\Repositorios\tasks-challenge\src\main\java\com\spacex\trelloassistant\controllers\TaskController.java
+C:\Users\LuAna\Repositorios\tasks-challenge\src\main\java\com\spacex\trelloassistant\models\TaskRequest.java
+C:\Users\LuAna\Repositorios\tasks-challenge\src\main\java\com\spacex\trelloassistant\services\ITaskService.java
+C:\Users\LuAna\Repositorios\tasks-challenge\src\main\java\com\spacex\trelloassistant\TrelloAssistantApplication.java
+C:\Users\LuAna\Repositorios\tasks-challenge\src\main\java\com\spacex\trelloassistant\exceptions\TaskException.java
+C:\Users\LuAna\Repositorios\tasks-challenge\src\main\java\com\spacex\trelloassistant\repository\TaskRepository.java
+C:\Users\LuAna\Repositorios\tasks-challenge\src\main\java\com\spacex\trelloassistant\repository\CategoryRepository.java
+C:\Users\LuAna\Repositorios\tasks-challenge\src\main\java\com\spacex\trelloassistant\entity\CategoryEntity.java
+C:\Users\LuAna\Repositorios\tasks-challenge\src\main\java\com\spacex\trelloassistant\entity\TaskEntity.java
+C:\Users\LuAna\Repositorios\tasks-challenge\src\main\java\com\spacex\trelloassistant\services\TaskServiceImpl.java
+C:\Users\LuAna\Repositorios\tasks-challenge\src\main\java\com\spacex\trelloassistant\entity\TypeTaskEntity.java
+C:\Users\LuAna\Repositorios\tasks-challenge\src\main\java\com\spacex\trelloassistant\repository\TypeTaskRepository.java
+C:\Users\LuAna\Repositorios\tasks-challenge\src\main\java\com\spacex\trelloassistant\exceptions\ObjectNotFoundException.java

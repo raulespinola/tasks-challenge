@@ -1,0 +1,16 @@
+com\spacex\trelloassistant\controllers\TaskController.class
+com\spacex\trelloassistant\rules\TaskRules.class
+com\spacex\trelloassistant\models\TaskRequest.class
+com\spacex\trelloassistant\exceptions\ObjectNotFoundException.class
+com\spacex\trelloassistant\exceptions\TaskException.class
+com\spacex\trelloassistant\repository\TypeTaskRepository.class
+com\spacex\trelloassistant\config\SwaggerConfig.class
+com\spacex\trelloassistant\services\ITaskService.class
+com\spacex\trelloassistant\entity\TaskEntity.class
+com\spacex\trelloassistant\services\TaskServiceImpl.class
+com\spacex\trelloassistant\entity\TypeTaskEntity.class
+com\spacex\trelloassistant\repository\CategoryRepository.class
+com\spacex\trelloassistant\TrelloAssistantApplication.class
+com\spacex\trelloassistant\repository\TaskRepository.class
+com\spacex\trelloassistant\entity\CategoryEntity.class
+com\spacex\trelloassistant\models\Category.class

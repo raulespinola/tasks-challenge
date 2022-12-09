@@ -5,7 +5,7 @@ import lombok.Getter;
 
 @Getter
 @AllArgsConstructor
-public enum TipoCurso {
+public enum TipoCursoES {
 
         CONFERENCIA("conferencia"), SEMINARIO("seminario"), TALLER("taller"),
         DIPLOMADO("diplomado"), PROGRAMA_ESPECIALIZADO("programEspecializado"),
