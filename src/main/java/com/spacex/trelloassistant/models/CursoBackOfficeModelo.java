@@ -31,7 +31,7 @@ public class CursoBackOfficeModelo {
     private String IDAssetImagenBigCard;
     private String IDIMGCursoDesktop;
     private String IDIMGCursoMobile;
-    private String descripciónES;
+    private String descripcionES;
     private String descripciónEN;
     private String codigoEventoConCosto;
     private String enlaceInscripciónSinCosto;
@@ -62,7 +62,7 @@ public class CursoBackOfficeModelo {
     private String metodologiaES;
     private String metodologiaEN;
     private String contenidoES;
-    private String contendioEN;
+    private String contenidoEN;
     private String cierreInscripcionES;
     private String requisitosEN;
     private String requisitosES;
