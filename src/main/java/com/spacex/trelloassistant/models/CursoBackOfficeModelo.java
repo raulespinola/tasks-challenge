@@ -10,9 +10,9 @@ import javax.persistence.Column;
 @NoArgsConstructor
 @AllArgsConstructor
 @Builder
-public class CursoBackOfficeModelo {
-    private Long id;
-    private String tituloSEOES;
+public class CursoBackOfficeModelo extends BackOfficeModelo {
+    /*private Long id;
+     tituloSEOES;
     private String tituloSEOEN;
     private String metadescriptionSEOES;
     private String metadescriptionSEOEN;
@@ -20,7 +20,7 @@ public class CursoBackOfficeModelo {
     private String slugEs;
     private String slugEN;
     private String keywordsES;
-    private String keywordsEN;
+    private String keywordsEN;*/
     private String bredcrumb1ES;
     private String tituloPaginaES;
     private String tituloPaginaEn;
@@ -41,8 +41,8 @@ public class CursoBackOfficeModelo {
     private String areaEN;
     private String modalidadES;
     private String modalidadEN;
-    private String sectorES;
-    private String sectorEN;
+   /* private String sectorES;
+    private String sectorEN;*/
     private String lugarES;
     private String lugarEN;
     private String fechaInicioES;
